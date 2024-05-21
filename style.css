@@ -1,0 +1,37 @@
+/* Form 1 */
+
+.image{
+    background-image: url("images/flower.jpg");
+    color: indigo;
+    font-size: large;
+    font-weight: bold;
+    margin-top:10px;
+}
+
+.form{
+    padding: 100px;
+    margin-right: 790px;
+}
+.style{
+    padding: 10px;
+}
+#btn{
+    padding: 8px;
+    color: indigo;
+    font-weight: bold;
+}
+
+/* Form 2  */
+
+body{
+    background-image: url("images/see.jpg"); 
+    background-size:cover ;
+    margin-left: 25px;
+    color:darkblue;
+    font-size: large;
+    font-weight: bold;
+}
+#btn{
+    width:70px; 
+    height:40px;
+}
